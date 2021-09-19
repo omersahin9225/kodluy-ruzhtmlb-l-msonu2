@@ -1,0 +1,57 @@
+body {
+    background-color:#D3D3D3;
+    font-family:   serif;
+
+}
+p{
+    font-size: 20px;
+}
+
+a{
+    color: #B8860B;
+    font-size: 17px;
+}
+
+h1 h2 h3{
+    text-transform: uppercase;
+}
+.box{
+    float: left;
+}
+
+.left-bar{
+    width: 200px;
+}
+
+.content{
+  width: 800px;
+  margin-left: 250px;
+}
+
+.container{
+    width: 1000px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 5%;
+}
+.fs-40{
+    font-size: 25px;
+}
+.left-bar2{
+    float: left ;
+}
+
+.gorsel{
+    margin-right: 500;
+    margin-left: 500;
+    }
+
+.button{
+        margin-left: 25%;
+        margin-right: 25%;
+        ; 
+         
+    }
+.pic {
+    margin-bottom: 5%;
+}
