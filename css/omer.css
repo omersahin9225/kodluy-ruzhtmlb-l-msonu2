@@ -4,7 +4,7 @@ body {
 
 }
 p{
-    font-size: 20px;
+    font-size: 25px;
 }
 
 a{
@@ -79,4 +79,7 @@ h1 h2 h3{
     -webkit-text-size-adjust: 100%;
     border-style: none;
     
+}
+ul{
+    font-size: 20px;
 }
