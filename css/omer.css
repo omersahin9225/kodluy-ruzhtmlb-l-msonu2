@@ -1,6 +1,6 @@
 body {
-    background-color:#D3D3D3;
-    font-family:   serif;
+    background-color: #D3D3D3;
+    font-family: 'Source Code Pro', monospace;
 
 }
 p{
@@ -39,19 +39,44 @@ h1 h2 h3{
 }
 .left-bar2{
     float: left ;
+    padding-bottom: 5%;
 }
 
 .gorsel{
-    margin-right: 500;
-    margin-left: 500;
+    margin-right: 30%;
+    margin-left: 35%;
     }
 
 .button{
         margin-left: 25%;
         margin-right: 25%;
-        ; 
+        background-color: #D3D3D3;
          
+    }
+    .button2{
+        background-color: white;
     }
 .pic {
     margin-bottom: 5%;
+}
+
+.index{
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.homepage{
+    margin-top: 150px;
+}
+.anasayfa{
+ margin: 0PX;
+ 
+}
+
+.deneme{
+    margin-left: 45%;
+}
+.icon{
+    -webkit-text-size-adjust: 100%;
+    border-style: none;
+    
 }
