@@ -1,7 +1,7 @@
 body {
     background-color: #D3D3D3;
-    font-family: 'Source Code Pro', monospace;
-
+    /* font-family: 'Source Code Pro', monospace; */
+    font-family: Georgia, serif;
 }
 p{
     font-size: 19px;
